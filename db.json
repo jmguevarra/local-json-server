@@ -1,0 +1,21 @@
+{
+    "posts" : [
+        {
+            "id"        :   1,
+            "title"     :   "Title 1",
+            "author"    :   "Jaime Guevarra Jr."  
+        }
+    ],
+    "comments" : [
+        {
+            "id"        :   1,
+            "body"      :   "This is sample server",
+            "postid"    :   1
+        }       
+    ],
+    "profile" : [
+        {
+            "name"      : "nevskie22"
+        }
+    ]
+}
