@@ -1,0 +1,11 @@
+#Ignore some files to pushed in github
+
+#Dependencies
+/node_mdules
+
+
+#Other if existed
+/build
+.env
+npm-debug.log
+.DS_Store
