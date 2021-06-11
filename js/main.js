@@ -19,5 +19,7 @@
      addPost('http://localhost:3000/posts', data);
  });
  
+
+ viewPost('http://localhost:3000/posts');
  
  

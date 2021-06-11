@@ -16,3 +16,6 @@
     Solution:
         - Using windows powershell or Git Bash. > Type "Get-ExecutionPolicy -List" to check the Policies
         - Set-ExecutionPolicy -Scope LocalMachine Unrestricted
+
+# To Run node App
+    Just type in gitbash/powershell/terminal/cmd "node app.js"

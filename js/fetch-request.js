@@ -17,4 +17,15 @@ const addPost = function(url = '', data = {}){
     });
 };
 
+const viewPost = function(url = ''){
+    fetch(url).then(function(res){
+        return res.json();
+    })
+    .then(function(data){
+        console.log(data);
+    })
+};
+
+
+
 
