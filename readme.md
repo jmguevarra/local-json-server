@@ -10,5 +10,5 @@
 4.  Using Powershell or Git Bach. Use this command "json-server --watch db.json".
 5.  Then its done with localhost:3000 - https://prnt.sc/13h9qsu
 
-# To Run node App
+### To Run node App
     Just type in gitbash/powershell/terminal/cmd "node app.js"
